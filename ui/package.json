@@ -1,0 +1,19 @@
+{
+  "name": "appt-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gchatterjee/appt-analysis.git"
+  },
+  "author": "gchatterjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gchatterjee/appt-analysis/issues"
+  },
+  "homepage": "https://github.com/gchatterjee/appt-analysis#readme"
+}
