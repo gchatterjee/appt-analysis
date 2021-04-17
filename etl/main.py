@@ -56,7 +56,7 @@ def connect_to_endpoint(url, headers):
 def get_tweets(account, next_token=None):
     bearer_token = auth()
     url = create_url('from:' + account, next_token, tweet_fields='tweet.fields=created_at')
-    log('making request to url: {}'.format(url))
+    log('making request to endpoint')
     headers = create_headers(bearer_token)
     json_response = connect_to_endpoint(url, headers)
     return json_response
