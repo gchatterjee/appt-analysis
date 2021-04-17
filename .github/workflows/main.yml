@@ -5,10 +5,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron:  '9 * * * *'
-
+    
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    environment: twitter
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
