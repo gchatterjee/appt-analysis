@@ -12,6 +12,10 @@ import csv
 import os
 from datetime import datetime as dt
 
+FATAL = 'FATAL'; ERROR = 'ERROR'; WARN = 'WARN'; INFO = 'INFO'; DEBUG = 'DEBUG'; TRACE = 'TRACE'
+
+def log(message, level='INFO'):
+    print('[{}] {} | {}'.format(level, dt.now(), message))
 
 # In[241]:
 
@@ -52,6 +56,7 @@ def connect_to_endpoint(url, headers):
 def get_tweets(account, next_token=None):
     bearer_token = auth()
     url = create_url('from:' + account, next_token, tweet_fields='tweet.fields=created_at')
+    log('making request to url: {}'.format(url))
     headers = create_headers(bearer_token)
     json_response = connect_to_endpoint(url, headers)
     return json_response
@@ -119,7 +124,7 @@ def extract_details_b(entry):
 
 
 def get_data(stop_id=None):
-    
+    log('getting data; stop_id: {}'.format(stop_id))
     data = []
     ids = set()
     next_token = None
@@ -156,7 +161,9 @@ def fetch_new_data():
         with open(METADATA_FILE) as fopen:
             metadata = json.loads(fopen.read())
             latest_id = metadata['latest_id']
-    except: pass
+        log('latest_id: {}'.format(latest_id))
+    except:
+        log('unable to open metadata file and get latest_id', WARN)
     return get_data(latest_id)
 
 def cache_data(df, newest_id):
@@ -164,7 +171,8 @@ def cache_data(df, newest_id):
         df.to_csv(CACHE_FILE, mode='a', header=False, index=False)
         with open(METADATA_FILE, 'w') as fopen:
             fopen.write(json.dumps({ 'last_updated': dt.now().isoformat(), 'latest_id': newest_id }))
-    except: pass
+    except:
+        log('unable to write to cache file or to metadata file', ERROR)
     
 
 
@@ -178,8 +186,8 @@ def data_to_frame(data):
             details = extract_details_a(entry)
             if details is None: details = extract_details_b(entry)
             if details is not None: rows.append(details)
-            else: print('[ERROR] NO MATCH FOR', '`' + entry['text'] + '`')
-        except: print('[ERROR] MATCHING FAILED FOR', '`' + entry['text'] + '`')
+            else: log('no match for `{}`'.format(entry['text']), WARN)
+        except: log('matching failed for `{}`'.format(entry['text']), WARN)
     return pd.concat(rows) if len(rows) > 0 else None
 
 
@@ -187,12 +195,13 @@ def data_to_frame(data):
 
 
 def pull_data():
+    log('pulling data...')
     (data, newest_id) = fetch_new_data()
     df = data_to_frame(data)
     if df is None:
-        print('no new data')
+        log('no new data')
         return
-    else: print(len(df), 'new records')
+    else: log('{} new records'.format(len(df)))
     cache_data(df, newest_id)
     
 
@@ -200,11 +209,8 @@ def pull_data():
 # In[249]:
 
 
-if __name__ == "__main__": pull_data()
+if __name__ == "__main__":
+    pull_data()
 
 
 # In[ ]:
-
-
-
-
