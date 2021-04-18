@@ -27,6 +27,7 @@ jobs:
         
     - name: Fetch latest data
       run: |-
+       echo $BEARER_TOKEN
         ( \
           cd etl                          && \
           pip install -r requirements.txt && \
