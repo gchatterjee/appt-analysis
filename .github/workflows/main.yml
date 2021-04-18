@@ -10,7 +10,7 @@ jobs:
   scheduled:
     runs-on: ubuntu-latest
     env:
-      SUPER_SECRET: ${{ secrets.BEARER_TOKEN }}
+      BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
@@ -27,7 +27,6 @@ jobs:
         
     - name: Fetch latest data
       run: |-
-       echo $BEARER_TOKEN
         ( \
           cd etl                          && \
           pip install -r requirements.txt && \
