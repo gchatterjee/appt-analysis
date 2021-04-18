@@ -9,7 +9,8 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
-    environment: twitter
+    env:
+      SUPER_SECRET: ${{ secrets.BEARER_TOKEN }}
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
