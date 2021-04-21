@@ -15,7 +15,7 @@ from datetime import datetime as dt
 FATAL = 'FATAL'; ERROR = 'ERROR'; WARN = 'WARN'; INFO = 'INFO'; DEBUG = 'DEBUG'; TRACE = 'TRACE'
 
 def log(message, level='INFO'):
-    print('[{}] {} | {}'.format(level, dt.now(), message))
+    print('[{}] [{}] | {}'.format(dt.now(), level, message))
 
 # In[241]:
 
