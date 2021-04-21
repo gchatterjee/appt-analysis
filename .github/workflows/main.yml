@@ -12,26 +12,39 @@ jobs:
     env:
       BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
     steps:
-      - name: Check out this repo
+      - name: Checkout Code
         uses: actions/checkout@v2
 
-      - name: Setup Python
+      - name: Install Python
         uses: actions/setup-python@v2.2.2
         with:
           python-version: 3.7
 
-      - name: Setup Node.js environment
+      - name: Install Node
         uses: actions/setup-node@v2.1.5
         with:
           node-version: 12
 
-      - name: Fetch latest data
+      - name: Fetch and analyze latest data
         run: |-
-          ( \
-            cd etl                          && \
-            pip install -r requirements.txt && \
-            python scrape.py                     \
-          )
+          cd etl
+          pip install -r requirements.txt
+          python scrape.py
+          python analyze.py
+          cd -
+
+      - name: Copy Data Files
+        run: cp -R etl/data web/
+
+      - name: Build Website
+        run: |-
+          cd web
+          npm install
+          npm run build:prod
+          cd -
+
+      - name: Copy Web Artifacts
+        run: cp -R web/dist/* docs
 
       - name: Commit and push if it changed
         run: |-
