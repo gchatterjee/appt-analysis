@@ -20,10 +20,10 @@ jobs:
         with:
           python-version: 3.7
 
-      #     - name: Setup Node.js environment
-      #       uses: actions/setup-node@v2.1.5
-      #       with:
-      #         node-version: 12
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.1.5
+        with:
+          node-version: 12
 
       - name: Fetch latest data
         run: |-
