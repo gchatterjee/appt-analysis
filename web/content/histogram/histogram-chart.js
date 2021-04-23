@@ -1,19 +1,25 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-export default class HistogramChartArea extends React.PureComponent {
+export default class HistogramChart extends React.PureComponent {
   render() {
     const { data } = this.props
+
+    const maxBar = Math.max(...data)
+
+    console.log(data.length)
+    console.log(maxBar)
+
     /* eslint-disable react/no-array-index-key */
     return (
-      <div style={{ display: 'flex', alignItems: 'flex-end', width: '100vh' }}>
+      <div style={{ display: 'flex', alignItems: 'flex-end' }}>
         {data.map((bar, i) => (
           <div
+            className='histogram-chart-bar'
             key={`bar-${i}`}
             style={{
-              backgroundColor: 'yellow',
-              height: `${10 * bar}px`,
-              width: `${100 / data.length}vh`,
+              height: `${(100 * bar) / maxBar}px`,
+              width: `${100 / data.length}%`,
             }}
           />
         ))}
@@ -23,6 +29,6 @@ export default class HistogramChartArea extends React.PureComponent {
   }
 }
 
-HistogramChartArea.propTypes = {
+HistogramChart.propTypes = {
   data: PropTypes.arrayOf(PropTypes.number).isRequired,
 }

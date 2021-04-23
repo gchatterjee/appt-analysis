@@ -8,7 +8,7 @@ module.exports = (_, argv) => {
     entry: './index.js',
     mode,
     output: { filename: 'index.js' },
-    devtool: mode === 'development' && 'eval',
+    devtool: mode === 'development' && 'source-map',
     plugins: [
       new HtmlWebpackPlugin({
         title: 'Massachusetts COVID-19 Vaccine Appointment Analysis',

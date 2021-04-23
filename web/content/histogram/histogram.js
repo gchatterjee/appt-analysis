@@ -1,8 +1,9 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import HistogramControlPanel from './histogram-control-panel/histogram-control-panel'
-import HistogramChart from './histogram-chart/histogram-chart'
+import HistogramChart from './histogram-chart'
+import HistogramXAxis from './histogram-x-axis'
+import HistogramYAxis from './histogram-y-axis'
 
 export default class Histogram extends React.Component {
   constructor(props) {
@@ -11,73 +12,37 @@ export default class Histogram extends React.Component {
   }
 
   render() {
-    const {
-      data,
-      controls,
-      transformData,
-      xLabels,
-      generateXLabels,
-      xTitle,
-      generateXTitle,
-      yLabels,
-      generateYLabels,
-      yTitle,
-      generateYTitle,
-    } = this.props
-    const { granularity, dataWindow } = this.state
-    const chartData = transformData
-      ? transformData(data, { granularity, dataWindow })
-      : data
-
-    const chartXTitle =
-      xTitle || (generateXTitle && generateXTitle({ granularity, dataWindow }))
-    const chartYTitle =
-      yTitle || (generateYTitle && generateYTitle({ granularity, dataWindow }))
-    const chartXLabels =
-      xLabels ||
-      (generateXLabels && generateXLabels({ granularity, dataWindow }))
-    const chartYLabels =
-      yLabels ||
-      (generateYLabels && generateYLabels({ granularity, dataWindow }))
+    const { data, xLabels, xTitle, yTitle } = this.props
 
     return (
       <>
-        {controls && (
-          <HistogramControlPanel
-            controls={controls.map((control) => ({
-              ...control,
-              action: async () => {
-                this.setState(await control.action())
-              },
-            }))}
-          />
-        )}
-
-        <HistogramChart
-          data={chartData}
-          xTitle={chartXTitle}
-          yTitle={chartYTitle}
-          xLabels={chartXLabels}
-          yLabels={chartYLabels}
-        />
+        <div className='histogram-grid-column'>
+          <div className='histogram-grid-cell'>
+            <HistogramYAxis max={Math.max(data)} yTitle={yTitle} />
+          </div>
+          <div className='histogram-grid-cell histogram-empty-cell' />
+        </div>
+        <div className='histogram-grid-column'>
+          <div className='histogram-grid-cell'>
+            <HistogramChart data={data} />
+          </div>
+          <div className='histogram-grid-cell'>
+            <HistogramXAxis
+              xLabels={data.map(
+                (_, i) => xLabels && i < xLabels.length && xLabels[i]
+              )}
+              xTitle={xTitle}
+            />
+          </div>
+        </div>
       </>
     )
   }
 }
 
 Histogram.propTypes = {
-  data: PropTypes.oneOfType([
-    PropTypes.arrayOf(PropTypes.number),
-    PropTypes.object,
-  ]).isRequired,
-  controls: PropTypes.arrayOf(PropTypes.func),
-  transformData: PropTypes.func,
+  data: PropTypes.arrayOf(PropTypes.number).isRequired,
   xLabels: PropTypes.arrayOf(PropTypes.string),
-  generateXLabels: PropTypes.func,
   xTitle: PropTypes.string,
-  generateXTitle: PropTypes.func,
-  yLabels: PropTypes.arrayOf(PropTypes.string),
-  generateYLabels: PropTypes.func,
   yTitle: PropTypes.string,
-  generateYTitle: PropTypes.func,
 }
