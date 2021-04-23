@@ -3,10 +3,13 @@ module.exports = {
     browser: true,
     es2021: true,
   },
-  extends: ['airbnb-base', 'prettier'],
+  extends: ['airbnb', 'prettier'],
   parserOptions: {
     ecmaVersion: 12,
     sourceType: 'module',
   },
-  rules: {},
+  rules: {
+    'react/jsx-filename-extension': 0,
+    'react/require-default-props': 0,
+  },
 }

@@ -9,9 +9,20 @@ module.exports = (_, argv) => {
     mode,
     output: { filename: 'index.js' },
     devtool: mode === 'development' && 'eval',
-    plugins: [new HtmlWebpackPlugin({
-      title: 'Massachusetts COVID-19 Vaccine Appointment Analysis',
-      template: 'index.html'
-    })],
+    plugins: [
+      new HtmlWebpackPlugin({
+        title: 'Massachusetts COVID-19 Vaccine Appointment Analysis',
+        template: 'index.html',
+      }),
+    ],
+    module: {
+      rules: [
+        {
+          loader: 'babel-loader',
+          test: /\.js$/,
+          exclude: /node_modules/,
+        },
+      ],
+    },
   }
 }
