@@ -6,7 +6,7 @@
   "scripts": {
     "lint:fix": "eslint --fix './**/*.js'; prettier --write .",
     "build:dev": "webpack --mode development && sass index.scss dist/index.css",
-    "build:prod": "webpack --mode production && sass --no-source-map --style=compressed dist/index.css"
+    "build:prod": "webpack --mode production && sass --no-source-map --style=compressed index.scss dist/index.css"
   },
   "repository": {
     "type": "git",
