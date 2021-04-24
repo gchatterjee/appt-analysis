@@ -11162,3 +11162,445 @@ id,count,site,locality,date,vaccine_type,posted,website
 1385893250280656896,,977 Walgreens - Pepperell,Pepperell,2021-04-24 09:47:54,,2021-04-24 09:47:54,https://t.co/cnhzil1ww4
 1385893250280656896,,977 Walgreens - Roslindale,Roslindale,2021-04-24 09:47:54,,2021-04-24 09:47:54,https://t.co/cnhzil1ww4
 1385893250280656896,,977 Walgreens - Southwick,Southwick,2021-04-24 09:47:54,,2021-04-24 09:47:54,https://t.co/cnhzil1ww4
+1385918027506622464,,170 Walgreens - Weymouth,Weymouth,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918027506622464,,170 Walgreens - Winchendon,Winchendon,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Dennisport,Dennisport,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Framingham,Framingham,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Gardner,Gardner,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Great Barrington,Great Barrington,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Hingham,Hingham,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Lakeville,Lakeville,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Leominster,Leominster,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Medway,Medway,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Monson,Monson,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Natick,Natick,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Newburyport,Newburyport,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Orleans,Orleans,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Palmer,Palmer,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Pepperell,Pepperell,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Southwick,Southwick,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Wareham,Wareham,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385918026537701377,,1355 Walgreens - Westfield,Westfield,2021-04-24 11:26:21,,2021-04-24 11:26:21,https://t.co/cnhzil1ww4
+1385916993212239872,,Cvs - West Springfield,West Springfield,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916993212239872,,Cvs - Westfield,Westfield,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916993212239872,,Cvs - Westport,Westport,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916993212239872,,Cvs - Westwood,Westwood,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916993212239872,,Cvs - Whitman,Whitman,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916993212239872,,Cvs - Worcester,Worcester,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Springfield,Springfield,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Stoughton,Stoughton,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Sturbridge,Sturbridge,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Swampscott,Swampscott,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Swansea,Swansea,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Taunton,Taunton,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Tewksbury,Tewksbury,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Uxbridge,Uxbridge,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Wakefield,Wakefield,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Walpole,Walpole,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Waltham,Waltham,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Wareham,Wareham,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Watertown,Watertown,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - Wayland,Wayland,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - West Boylston,West Boylston,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - West Bridgewater,West Bridgewater,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916992222339073,,Cvs - West Roxbury,West Roxbury,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - Roslindale,Roslindale,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - Rowley,Rowley,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - Salem,Salem,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - Sandwich,Sandwich,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - Saugus,Saugus,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - Seekonk,Seekonk,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - Sharon,Sharon,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - South Attleboro,South Attleboro,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - South Boston,South Boston,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - South Dartmouth,South Dartmouth,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - South Dennis,South Dennis,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - South Easton,South Easton,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - South Weymouth,South Weymouth,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - South Yarmouth,South Yarmouth,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - Southbridge,Southbridge,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916991282757633,,Cvs - Southwick,Southwick,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Newton,Newton,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - North Attleborough,North Attleborough,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - North Dartmouth,North Dartmouth,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - North Easton,North Easton,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Northampton,Northampton,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Norton,Norton,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Norwell,Norwell,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Norwood,Norwood,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Orleans,Orleans,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Palmer,Palmer,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Peabody,Peabody,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Pittsfield,Pittsfield,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Plainville,Plainville,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Plymouth,Plymouth,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Quincy,Quincy,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Randolph,Randolph,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Revere,Revere,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916990271930368,,Cvs - Rockland,Rockland,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Littleton,Littleton,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Longmeadow,Longmeadow,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Lowell,Lowell,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Lynn,Lynn,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Malden,Malden,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Mansfield,Mansfield,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Marshfield,Marshfield,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Marstons Mills,Marstons Mills,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Mashpee,Mashpee,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Mattapan,Mattapan,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Maynard,Maynard,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Medford,Medford,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Melrose,Melrose,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Methuen,Methuen,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Milford,Milford,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Milton,Milton,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Needham,Needham,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - New Bedford,New Bedford,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916989328269316,,Cvs - Newburyport,Newburyport,2021-04-24 11:22:14,,2021-04-24 11:22:14,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Great Barrington,Great Barrington,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Greenfield,Greenfield,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Groton,Groton,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Hadley,Hadley,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Hanover,Hanover,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Hanson,Hanson,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Haverhill,Haverhill,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Holbrook,Holbrook,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Holden,Holden,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Holyoke,Holyoke,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Hyannis,Hyannis,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Hyde Park,Hyde Park,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Ipswich,Ipswich,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Jamaica Plain,Jamaica Plain,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Kingston,Kingston,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Lanesborough,Lanesborough,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Lenox,Lenox,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916988342538244,,Cvs - Leominster,Leominster,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - Dorchester,Dorchester,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - East Boston,East Boston,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - East Bridgewater,East Bridgewater,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - East Falmouth,East Falmouth,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - East Longmeadow,East Longmeadow,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - East Wareham,East Wareham,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - Easthampton,Easthampton,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - Fairhaven,Fairhaven,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - Fall River,Fall River,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - Fitchburg,Fitchburg,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - Foxborough,Foxborough,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - Franklin,Franklin,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - Georgetown,Georgetown,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - Gloucester,Gloucester,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916987323338753,,Cvs - Granby,Granby,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Abington,Abington,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Agawam,Agawam,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Amesbury,Amesbury,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Amherst,Amherst,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Attleboro,Attleboro,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Belchertown,Belchertown,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Belmont,Belmont,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Beverly,Beverly,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Boston,Boston,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Bourne,Bourne,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Brockton,Brockton,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Brookline,Brookline,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Chelmsford,Chelmsford,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Chelsea,Chelsea,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Chestnut Hill,Chestnut Hill,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Chicopee,Chicopee,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Concord,Concord,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Danvers,Danvers,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916986459316225,,Cvs - Dedham,Dedham,2021-04-24 11:22:13,,2021-04-24 11:22:13,https://t.co/cvau09jxzh
+1385916895526858754,,56 Community (walgreens) - Springfield,Springfield,2021-04-24 11:21:51,,2021-04-24 11:21:51,https://t.co/cnhzil1ww4
+1385916895526858754,,56 Community (walgreens) - Worcester,Worcester,2021-04-24 11:21:51,,2021-04-24 11:21:51,https://t.co/cnhzil1ww4
+1385915396335751172,,1137 Walgreens - Dennisport,Dennisport,2021-04-24 11:15:54,,2021-04-24 11:15:54,https://t.co/cnhzil1ww4
+1385915396335751172,,1137 Walgreens - Falmouth,Falmouth,2021-04-24 11:15:54,,2021-04-24 11:15:54,https://t.co/cnhzil1ww4
+1385915396335751172,,1137 Walgreens - Gardner,Gardner,2021-04-24 11:15:54,,2021-04-24 11:15:54,https://t.co/cnhzil1ww4
+1385915396335751172,,1137 Walgreens - Great Barrington,Great Barrington,2021-04-24 11:15:54,,2021-04-24 11:15:54,https://t.co/cnhzil1ww4
+1385915396335751172,,1137 Walgreens - Monson,Monson,2021-04-24 11:15:54,,2021-04-24 11:15:54,https://t.co/cnhzil1ww4
+1385915396335751172,,1137 Walgreens - Palmer,Palmer,2021-04-24 11:15:54,,2021-04-24 11:15:54,https://t.co/cnhzil1ww4
+1385915396335751172,,1137 Walgreens - Southwick,Southwick,2021-04-24 11:15:54,,2021-04-24 11:15:54,https://t.co/cnhzil1ww4
+1385915396335751172,,1137 Walgreens - Taunton,Taunton,2021-04-24 11:15:54,,2021-04-24 11:15:54,https://t.co/cnhzil1ww4
+1385915396335751172,,1137 Walgreens - Westfield,Westfield,2021-04-24 11:15:54,,2021-04-24 11:15:54,https://t.co/cnhzil1ww4
+1385915396335751172,,1137 Walgreens - Winchendon,Winchendon,2021-04-24 11:15:54,,2021-04-24 11:15:54,https://t.co/cnhzil1ww4
+1385913238479589384,,Cvs - Westwood,Westwood,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913238479589384,,Cvs - Weymouth,Weymouth,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913238479589384,,Cvs - Whitman,Whitman,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913238479589384,,Cvs - Winchester,Winchester,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913238479589384,,Cvs - Worcester,Worcester,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913238479589384,,Cvs - Wrentham,Wrentham,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - South Boston,South Boston,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - South Dartmouth,South Dartmouth,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - South Dennis,South Dennis,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - South Easton,South Easton,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - South Weymouth,South Weymouth,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - South Yarmouth,South Yarmouth,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - Southbridge,Southbridge,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - Southwick,Southwick,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - Springfield,Springfield,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - Stoughton,Stoughton,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - Sturbridge,Sturbridge,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - Sudbury,Sudbury,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - Swampscott,Swampscott,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - Swansea,Swansea,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913236214718464,,Cvs - Taunton,Taunton,2021-04-24 11:07:19,,2021-04-24 11:07:19,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Norwood,Norwood,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Orleans,Orleans,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Palmer,Palmer,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Peabody,Peabody,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Pittsfield,Pittsfield,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Plainville,Plainville,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Plymouth,Plymouth,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Quincy,Quincy,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Randolph,Randolph,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Reading,Reading,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Revere,Revere,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Rockland,Rockland,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Roslindale,Roslindale,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Rowley,Rowley,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Salem,Salem,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Sandwich,Sandwich,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Saugus,Saugus,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Seekonk,Seekonk,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - Sharon,Sharon,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913235099078657,,Cvs - South Attleboro,South Attleboro,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Medford,Medford,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Medway,Medway,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Melrose,Melrose,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Methuen,Methuen,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Milford,Milford,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Millis,Millis,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Milton,Milton,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Needham,Needham,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - New Bedford,New Bedford,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Newburyport,Newburyport,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Newton,Newton,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - North Andover,North Andover,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - North Attleborough,North Attleborough,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - North Dartmouth,North Dartmouth,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - North Easton,North Easton,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Northampton,Northampton,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913234042015745,,Cvs - Norton,Norton,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Jamaica Plain,Jamaica Plain,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Kingston,Kingston,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Lanesborough,Lanesborough,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Lenox,Lenox,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Leominster,Leominster,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Lexington,Lexington,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Littleton,Littleton,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Longmeadow,Longmeadow,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Lowell,Lowell,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Lynn,Lynn,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Malden,Malden,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Mansfield,Mansfield,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Marshfield,Marshfield,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Marstons Mills,Marstons Mills,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Mashpee,Mashpee,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Mattapan,Mattapan,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Maynard,Maynard,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232993423365,,Cvs - Medfield,Medfield,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Framingham,Framingham,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Franklin,Franklin,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Georgetown,Georgetown,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Gloucester,Gloucester,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Granby,Granby,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Great Barrington,Great Barrington,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Greenfield,Greenfield,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Hadley,Hadley,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Hanover,Hanover,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Hanson,Hanson,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Haverhill,Haverhill,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Hingham,Hingham,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Holbrook,Holbrook,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Holden,Holden,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Holyoke,Holyoke,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Hyannis,Hyannis,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Hyde Park,Hyde Park,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913232024608773,,Cvs - Ipswich,Ipswich,2021-04-24 11:07:18,,2021-04-24 11:07:18,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - Concord,Concord,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - Danvers,Danvers,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - Dedham,Dedham,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - Dorchester,Dorchester,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - Dracut,Dracut,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - East Boston,East Boston,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - East Bridgewater,East Bridgewater,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - East Falmouth,East Falmouth,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - East Longmeadow,East Longmeadow,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - East Wareham,East Wareham,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - Easthampton,Easthampton,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - Everett,Everett,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - Fairhaven,Fairhaven,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - Fall River,Fall River,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - Fitchburg,Fitchburg,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913231085084675,,Cvs - Foxborough,Foxborough,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Abington,Abington,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Acton,Acton,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Agawam,Agawam,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Amesbury,Amesbury,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Amherst,Amherst,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Attleboro,Attleboro,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Belchertown,Belchertown,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Belmont,Belmont,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Beverly,Beverly,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Boston,Boston,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Bourne,Bourne,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Braintree,Braintree,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Brockton,Brockton,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Chelmsford,Chelmsford,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Chelsea,Chelsea,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Chestnut Hill,Chestnut Hill,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Chicopee,Chicopee,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Clinton,Clinton,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385913230128779264,,Cvs - Cohasset,Cohasset,2021-04-24 11:07:17,,2021-04-24 11:07:17,https://t.co/cvau09jxzh
+1385909477501714432,,Cvs - Westport,Westport,2021-04-24 10:52:23,,2021-04-24 10:52:23,https://t.co/cvau09jxzh
+1385909477501714432,,Cvs - Whitman,Whitman,2021-04-24 10:52:23,,2021-04-24 10:52:23,https://t.co/cvau09jxzh
+1385909477501714432,,Cvs - Wilmington,Wilmington,2021-04-24 10:52:23,,2021-04-24 10:52:23,https://t.co/cvau09jxzh
+1385909477501714432,,Cvs - Worcester,Worcester,2021-04-24 10:52:23,,2021-04-24 10:52:23,https://t.co/cvau09jxzh
+1385909477501714432,,Cvs - Wrentham,Wrentham,2021-04-24 10:52:23,,2021-04-24 10:52:23,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Swansea,Swansea,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Taunton,Taunton,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Tewksbury,Tewksbury,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Uxbridge,Uxbridge,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Wakefield,Wakefield,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Walpole,Walpole,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Waltham,Waltham,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Wareham,Wareham,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Watertown,Watertown,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Wayland,Wayland,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Wellesley,Wellesley,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - West Boylston,West Boylston,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - West Bridgewater,West Bridgewater,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - West Roxbury,West Roxbury,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - West Springfield,West Springfield,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Westfield,Westfield,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909476574781442,,Cvs - Westford,Westford,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - South Attleboro,South Attleboro,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - South Boston,South Boston,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - South Dartmouth,South Dartmouth,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - South Dennis,South Dennis,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - South Easton,South Easton,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - South Weymouth,South Weymouth,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - South Yarmouth,South Yarmouth,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - Southbridge,Southbridge,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - Southwick,Southwick,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - Springfield,Springfield,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - Stoneham,Stoneham,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - Stoughton,Stoughton,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - Sturbridge,Sturbridge,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909475731779584,,Cvs - Swampscott,Swampscott,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Norton,Norton,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Norwood,Norwood,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Orleans,Orleans,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Palmer,Palmer,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Peabody,Peabody,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Pittsfield,Pittsfield,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Plainville,Plainville,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Plymouth,Plymouth,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Quincy,Quincy,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Randolph,Randolph,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Reading,Reading,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Revere,Revere,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Rockland,Rockland,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Roslindale,Roslindale,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Rowley,Rowley,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Salem,Salem,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Sandwich,Sandwich,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Saugus,Saugus,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Seekonk,Seekonk,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909474884562945,,Cvs - Sharon,Sharon,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Medford,Medford,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Medway,Medway,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Melrose,Melrose,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Methuen,Methuen,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Milford,Milford,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Millbury,Millbury,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Millis,Millis,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Milton,Milton,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Needham,Needham,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - New Bedford,New Bedford,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Newburyport,Newburyport,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Newton,Newton,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - North Andover,North Andover,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - North Attleborough,North Attleborough,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - North Dartmouth,North Dartmouth,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - North Easton,North Easton,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909473890471941,,Cvs - Northampton,Northampton,2021-04-24 10:52:22,,2021-04-24 10:52:22,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Ipswich,Ipswich,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Jamaica Plain,Jamaica Plain,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Kingston,Kingston,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Lanesborough,Lanesborough,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Lenox,Lenox,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Leominster,Leominster,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Lexington,Lexington,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Longmeadow,Longmeadow,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Lowell,Lowell,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Lynn,Lynn,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Malden,Malden,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Mansfield,Mansfield,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Marlborough,Marlborough,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Marshfield,Marshfield,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Marstons Mills,Marstons Mills,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Mashpee,Mashpee,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Mattapan,Mattapan,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909472908951553,,Cvs - Maynard,Maynard,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Foxborough,Foxborough,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Framingham,Framingham,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Franklin,Franklin,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Georgetown,Georgetown,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Gloucester,Gloucester,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Granby,Granby,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Great Barrington,Great Barrington,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Greenfield,Greenfield,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Groton,Groton,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Hadley,Hadley,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Hanover,Hanover,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Hanson,Hanson,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Haverhill,Haverhill,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Holbrook,Holbrook,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Holden,Holden,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Holyoke,Holyoke,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Hyannis,Hyannis,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471952703488,,Cvs - Hyde Park,Hyde Park,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - Chestnut Hill,Chestnut Hill,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - Chicopee,Chicopee,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - Danvers,Danvers,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - Dedham,Dedham,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - Dorchester,Dorchester,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - Dracut,Dracut,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - East Boston,East Boston,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - East Bridgewater,East Bridgewater,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - East Falmouth,East Falmouth,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - East Longmeadow,East Longmeadow,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - East Wareham,East Wareham,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - Easthampton,Easthampton,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - Fairhaven,Fairhaven,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - Fall River,Fall River,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909471105400837,,Cvs - Fitchburg,Fitchburg,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Acton,Acton,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Agawam,Agawam,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Allston,Allston,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Amesbury,Amesbury,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Amherst,Amherst,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Attleboro,Attleboro,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Bedford,Bedford,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Belchertown,Belchertown,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Belmont,Belmont,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Beverly,Beverly,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Billerica,Billerica,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Boston,Boston,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Bourne,Bourne,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Braintree,Braintree,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Brighton,Brighton,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Brockton,Brockton,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Brookline,Brookline,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Chelmsford,Chelmsford,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385909470128189440,,Cvs - Chelsea,Chelsea,2021-04-24 10:52:21,,2021-04-24 10:52:21,https://t.co/cvau09jxzh
+1385907125935919104,,867 Walgreens - Adams,Adams,2021-04-24 10:43:02,,2021-04-24 10:43:02,https://t.co/cnhzil1ww4
+1385907125935919104,,867 Walgreens - Gardner,Gardner,2021-04-24 10:43:02,,2021-04-24 10:43:02,https://t.co/cnhzil1ww4
+1385907125935919104,,867 Walgreens - Great Barrington,Great Barrington,2021-04-24 10:43:02,,2021-04-24 10:43:02,https://t.co/cnhzil1ww4
+1385907125935919104,,867 Walgreens - Mattapan,Mattapan,2021-04-24 10:43:02,,2021-04-24 10:43:02,https://t.co/cnhzil1ww4
+1385907125935919104,,867 Walgreens - Monson,Monson,2021-04-24 10:43:02,,2021-04-24 10:43:02,https://t.co/cnhzil1ww4
+1385907125935919104,,867 Walgreens - North Adams,North Adams,2021-04-24 10:43:02,,2021-04-24 10:43:02,https://t.co/cnhzil1ww4
+1385907125935919104,,867 Walgreens - Palmer,Palmer,2021-04-24 10:43:02,,2021-04-24 10:43:02,https://t.co/cnhzil1ww4
+1385907125935919104,,867 Walgreens - Taunton,Taunton,2021-04-24 10:43:02,,2021-04-24 10:43:02,https://t.co/cnhzil1ww4
+1385907125935919104,,867 Walgreens - Turners Falls,Turners Falls,2021-04-24 10:43:02,,2021-04-24 10:43:02,https://t.co/cnhzil1ww4
+1385907125935919104,,867 Walgreens - Williamstown,Williamstown,2021-04-24 10:43:02,,2021-04-24 10:43:02,https://t.co/cnhzil1ww4
+1385907125935919104,,867 Walgreens - Winchendon,Winchendon,2021-04-24 10:43:02,,2021-04-24 10:43:02,https://t.co/cnhzil1ww4
